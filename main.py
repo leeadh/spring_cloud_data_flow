@@ -1,5 +1,2 @@
-import json
-y = json.loads(payload)
-
-result = y
+result= payload.upper()
 
