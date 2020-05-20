@@ -1,2 +1,6 @@
-#result = payload.upper()
-result = type(payload)
+import json
+
+# parse x:
+y = json.loads(payload)
+result = y["amount"]
+
