@@ -1,3 +1,3 @@
 #print(payload)
-#result = payload.upper()
-result = type(payload)
+result = payload.upper()
+#result = type(payload)
