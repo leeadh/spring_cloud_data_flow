@@ -1,2 +1,3 @@
-print(payload)
-result = payload.upper()
+#print(payload)
+#result = payload.upper()
+result = type(payload)
