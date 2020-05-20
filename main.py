@@ -1,2 +1,2 @@
-result = payload.upper()
-
+#result = payload.upper()
+result = type(payload)
