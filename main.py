@@ -2,5 +2,5 @@ import json
 
 # parse x:
 y = json.loads(payload)
-result = y["amount"]
+result = payload.upper()
 
